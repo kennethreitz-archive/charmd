@@ -1,6 +1,8 @@
 Charmd: Pow for Python
 =======================
 
+**This project is dead.**
+
 like pow but for python. no /etc/hosts. No weird ports.
 
 
